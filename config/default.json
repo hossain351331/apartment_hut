@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://user_borshan:borshan@cluster0.4yzhr.mongodb.net/appartment_hut?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+}
